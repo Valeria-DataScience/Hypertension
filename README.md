@@ -1,12 +1,10 @@
 ## Hypertension
 # A multivariate study of ambulatory factors associated with hypertension in adults
 
-La hipertensión arterial, comunmente conocida como presión alta, es una condición asociada a un alto riesgo de enfermedad cardiovascular, cerebrovascular y renal.
-Los niveles de presión sanguínea (PS) siguen un ciclo finamente regulado tanto por factores exógenos (por ejemplo, actividad, estrés y postura durante las 24 hs) como ritmos circadianos endógenos en los sistemas nerviosos y autócrinos.
+Arterial hypertension, commonly known as high blood pressure, is a condition associated with a high risk of cardiovascular, cerebrovascular, and kidney disease. Blood pressure (BP) levels follow a finely regulated cycle, both by exogenous factors (e.g., activity, stress, and posture throughout the 24 hours) and endogenous circadian rhythms in the nervous and autocrine systems.
 
-En condiciones saludables, los niveles de PS disminuyen ≥ 10% durante la noche con respecto al día. Un individuo con este patrón es clasificado como dipper.
-Sin embargo, cuando existe poca o ninguna disminución de PS en la noche, los individuos son clasificados como nondippers.
+In healthy conditions, BP levels decrease ≥ 10% during the night compared to the day. An individual with this pattern is classified as a dipper. However, when there is little or no decrease in BP at night, individuals are classified as nondippers.
 
-Esta última condición tiene una gran atención clínica en pacientes hipertensos, dado que la exposición constante a altos niveles de PS está asociada a mayor riesgo de daño en órganos y menor capacidad de funciones renal y cardiovascular.
+This latter condition is of significant clinical concern in hypertensive patients, given that constant exposure to high BP levels is associated with an increased risk of organ damage and decreased renal and cardiovascular function.
 
-El monitoreo ambulatorio de la PS y la determinación de las propiedades mecánicas de las arterias tienen un rol importante en la identificación de pacientes con riesgo cardiovascular. Algunos parámetros son la velocidad de onda pulso (VOP), el cual es un índice independiente que predice la rigidez arterial además de un índice ambulatorio de rigidez arterial (AASI), entre otros.
+Ambulatory BP monitoring and determination of arterial mechanical properties play an important role in identifying patients at cardiovascular risk. Some parameters are pulse wave velocity (PWV), which is an independent index that predicts arterial stiffness, as well as an ambulatory arterial stiffness index (AASI), among others.
