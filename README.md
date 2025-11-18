@@ -28,3 +28,5 @@ The main objective is to explore circadian blood pressure patterns and develop a
 - pandas & numpy for data manipulation
 - matplotlib for visualization
 - scikit-learn for preprocessing and machine learning
+
+![Exploratory Data Analysis Report](HTA_EDA_report.png)
